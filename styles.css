@@ -1,4 +1,4 @@
-body {margin: 0; padding:0; background-color: RGB(208,210,209); background-image: url('pics/cmc.jpg'); background-repeat: no-repeat; background-position: center top; background-size: 100%;}
+body {margin: 0; padding:0; background-color: RGB(208,210,209);}
 body header h1 {font-size:x-large; font-weight: bold; color: white; background-color: RGB(0,0,128); height: 50px;text-align: center;padding-top: 15px; margin:0px;}
 body div footer p{background-color: RGB(0,0,128); color: white; text-align: center;height: 30px;padding-top: 10px; width: 95%; position: fixed; bottom: 0px; margin-left:0;}
 
